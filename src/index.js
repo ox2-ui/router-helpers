@@ -1,0 +1,1 @@
+export { isNewPath } from './helpers';
