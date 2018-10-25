@@ -1,3 +1,5 @@
+### Package is no longer maintaned.
+
 # @ox2/router-helpers
 ![NPM version](https://img.shields.io/badge/npm-private-orange.svg?style=flat)
 <!-- ![NPM version](https://img.shields.io/npm/v/@ox2/router-helpers.svg?style=flat) -->
